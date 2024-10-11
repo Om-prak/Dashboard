@@ -57,7 +57,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 2rem;
+    padding: 1rem;
     margin-bottom: 30px;
 }
 
@@ -78,7 +78,7 @@ body{
 }
 
 .sidebar-list-item{
-    padding: 1rem 2rem;
+    padding: 1rem 1rem;
     font-size: 18px;
 }
 
